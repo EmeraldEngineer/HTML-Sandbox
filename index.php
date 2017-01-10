@@ -17,7 +17,6 @@
 			<li>Tacos</li>
 			<li>Tow Truck</li>
 		</ul>
-
 			<table>
 				<!-- Row 1 -->
 				<tr>
