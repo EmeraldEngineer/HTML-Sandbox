@@ -38,7 +38,7 @@
 
 				<!-- Row 4 -->
 				<tr>
-					<td>Siamese</td>\
+					<td>Siamese</td>
 					<td>Boxer</td>
 				</tr>
 		</table>
