@@ -17,7 +17,7 @@
 			<li>Tacos</li>
 			<li>Tow Truck</li>
 		</ul>
-			<table>
+		<table>
 				<!-- Row 1 -->
 				<tr>
 					<th>Column 1</th>
@@ -41,7 +41,7 @@
 					<td>Siamese</td>\
 					<td>Boxer</td>
 				</tr>
-			</table>
+		</table>
 
 	</body>
 </html>
